@@ -1,141 +1,40 @@
-# Core AI Clips — Python Series Notes
+# Python Beginner Practice Tasks
 
-This repository contains **code, notes, and slides** for the  
-**Core AI Clips – Python Core Series** on YouTube.
+This repository contains a collection of beginner-level Python practice tasks, each with questions and corresponding solutions.
 
-🎥 **Watch the full playlist on the [Core AI Clips YouTube channel](https://www.youtube.com/@CoreAI_Clips).**
+## Structure
 
----
-This series is designed for people who want to **understand Python properly**, not memorize syntax or copy code blindly.
+Each task is organized into two files:
 
-📺 YouTube Channel: [Core AI Clips YouTube channel](https://www.youtube.com/@CoreAI_Clips)
+* `Task-01(Questions).ipynb` → Questions
 
----
+* `Task-01(Answers).ipynb` → Solutions
 
-## What This Repository Is ?
+* `Task-02(Questions).ipynb` → Questions
 
-This repository is a **structured companion** to the video series.
+* `Task-02(Answers).ipynb` → Solutions
 
-Each video has:
-- Minimal, executable Python code
-- Clear written notes explaining the model
-- Slides used in the explanation (PDF/PPT)
+* `Task-03(Questions).ipynb` → Questions
 
-Everything is organized **by phase and by video number**.
+* `Task-03(Answers).ipynb` → Solutions
 
----
+(Additional tasks will be added progressively.)
 
-## How to Use This Repository (IMPORTANT)
+## About
 
-1. Start from **Phase 1 – Foundations**
-2. Watch the video first
-3. Open the matching folder in this repo
-4. Run the code
-5. Read the notes
-6. Move forward only if it makes sense
+These tasks are designed for beginners to build a strong foundation in Python. Topics include:
 
-Do **not** skip phases.
+* conditionals
+* loops
+* basic operations
+* functions
 
----
+## Learning Support
 
-## Repository Structure
+For clear explanations and walkthroughs of these tasks, refer to my YouTube channel:
 
-## Python Core Series – Full Video Roadmap
+https://www.youtube.com/@LearnWith_MSR
 
-### 🔹 Phase 1: Python Foundations (Absolute Core)
+## Goal
 
-1. What Python Actually Is (and what it is NOT)  
-2. How Python Code Really Runs (Interpreter, Script, REPL)  
-3. Variables Explained Like You’re an Engineer  
-4. Data Types That Actually Matter (int, float, str, bool)  
-5. Why Everything in Python Is an Object  
-6. Type Conversion & Common Beginner Traps  
-7. Writing Clean Print Statements  
-8. Comments, Readability, and Why Bad Code Fails  
-
-📌 Stop after Phase 1. Practice before moving ahead.
-
----
-
-### 🔹 Phase 2: Control Flow (Thinking in Code)
-
-- If–Else Logic  
-- Truthy vs Falsy  
-- Comparison vs Logical Operators  
-- While Loops (When NOT to Use Them)  
-- For Loops Done Right  
-- break, continue, pass  
-- Writing Your First Real Logic Program  
-
----
-
-### 🔹 Phase 3: Core Data Structures
-
-- Lists (memory + indexing)  
-- Tuples (why they exist)  
-- Sets (fast lookups)  
-- Dictionaries (most important structure)  
-- Iteration patterns  
-- Common mistakes and why they happen  
-
----
-
-### 🔹 Phase 4: Functions
-
-- Why Functions Exist (design thinking)  
-- Defining and Calling Functions  
-- Parameters vs Arguments  
-- Return Values vs Printing  
-- Scope (local vs global)  
-- Writing Reusable Functions  
-- When Your Function Design Is Trash (and how to fix it)  
-
----
-
-### 🔹 Phase 5: Errors & Debugging
-
-- What Errors Really Mean  
-- Syntax vs Runtime vs Logical Errors  
-- Reading Tracebacks Properly  
-- try–except Without Fear  
-- Writing Defensive Code  
-- Debugging Mindset  
-
----
-
-### 🔹 Phase 6: Files & Real Interaction
-
-- Reading Files Properly  
-- Writing Files Safely  
-- Working with CSV Files  
-- JSON Explained for Humans  
-- Mini File-Based Project  
-
----
-
-### 🔹 Phase 7: Object-Oriented Programming (Minimal & Practical)
-
-- What OOP Solves (and when it is useless)  
-- Classes and Objects  
-- __init__ Without Confusion  
-- Instance vs Class Variables  
-- Methods That Make Sense  
-- When NOT to Use OOP  
-
----
-
-### 🔹 Phase 8: Python → ML Bridge
-
-- Python Lists vs NumPy Arrays (conceptual)  
-- Writing Python That Works with ML Libraries  
-- Why Vectorization Matters  
-- Basic Data Processing Flow  
-- What You Need Before Touching ML  
-
----
-
-## How to Run the Code
-
-Make sure Python 3.9+ is installed.
-
-
+The goal is to improve Python fundamentals through consistent practice and structured problem-solving.
